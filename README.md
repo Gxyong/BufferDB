@@ -34,4 +34,4 @@ Android 10 读取文件需要在application 添加一行代码
        android:requestLegacyExternalStorage="true"
  
 ```
-详细代码请看demo
+详细代码请看[demo](https://github.com/Gxyong/BufferDB/tree/master/app/src/main/java/com/buffer)
