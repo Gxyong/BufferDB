@@ -9,7 +9,7 @@ import java.lang.ref.WeakReference;
 import java.util.Set;
 
 /**
- * Created by LiShen on 2017/11/21.
+ * map缓存
  * Lru cache map
  */
 
